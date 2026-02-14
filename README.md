@@ -30,7 +30,5 @@ Developed as part of Project-Based Learning (PBL).
 - PyPDF2 / pdfplumber (Resume parsing)
 - Pandas & NumPy
 
----
 
-## 📂 Project Structure
 
